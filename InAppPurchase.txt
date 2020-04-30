@@ -1,0 +1,41 @@
+Google Play Billing can be used to sell the following types of in-app products:
+
+1.....One-time products: An in-app product requiring a single, non-recurring charge to the user's form of payment. Additional game levels, premium loot boxes, and media files are examples of one-time products. The Google Play Console refers to one-time products as managed products, and the Google Play Billing library calls them "INAPP".
+
+
+2.... Subscriptions: An in-app product requiring a recurring charge to the user's form of payment. Online magazines and music streaming services are examples of subscriptions. The Google Play Billing Library calls these "SUBS".
+
+One Time product == Managed Product
+
+
+Flow of testing before production
+
+1. Solo test with static response - test purchased with static product id
+
+2. Internal testing - money will be debited in real
+
+3. closed testing - money will be debited in real
+
+4. open testing - money will be debited in real
+
+5. Licence tester - money will not be debited - its for testing
+
+** we can refund from Order management tabs from play console
+
+QUESTIONS
+
+1. what is sku == is product id
+
+2. how google identifiy deivce for purchase  
+
+Introductory price:
+
+Grace period:
+
+Account hold: 
+
+
+Remember sites for inapppurchase : 
+
+https://en.proft.me/2018/04/9/how-add-app-purchase-your-android-application/
+https://blog.mindorks.com/implement-in-app-purchases-in-android
