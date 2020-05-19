@@ -37,5 +37,10 @@ Account hold:
 
 Remember sites for inapppurchase : 
 
+https://stuff.mit.edu/afs/sipb/project/android/docs/training/in-app-billing/purchase-iab-products.html
+https://en.proft.me/2018/04/9/how-add-app-purchase-your-android-application/
+https://blog.mindorks.com/implement-in-app-purchases-in-android
+
+
 https://en.proft.me/2018/04/9/how-add-app-purchase-your-android-application/
 https://blog.mindorks.com/implement-in-app-purchases-in-android
